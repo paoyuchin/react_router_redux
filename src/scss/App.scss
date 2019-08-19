@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.App {
+  display: inline-block;
+  width: 400px;
+}
+
+.form-group {
+  display: flex;
+  margin: 7px;
+}
+
+.list-group-item {
+  display: flex !important;
+  justify-content: space-between !important;
+}
+
+
+.btnsWrap{
+  a{
+    margin-right: 5px;
+  }
+}
+
+.margin_left_medium{
+  margin-left: 5px
+}
