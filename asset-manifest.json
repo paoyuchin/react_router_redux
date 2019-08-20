@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.d8abf9d9.chunk.css",
-    "main.js": "/repository-name/static/js/main.baa3d364.chunk.js",
-    "main.js.map": "/repository-name/static/js/main.baa3d364.chunk.js.map",
-    "runtime~main.js": "/repository-name/static/js/runtime~main.c2a15fe1.js",
-    "runtime~main.js.map": "/repository-name/static/js/runtime~main.c2a15fe1.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/repository-name/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.6e6c5f69.chunk.js": "/repository-name/static/js/2.6e6c5f69.chunk.js",
-    "static/js/2.6e6c5f69.chunk.js.map": "/repository-name/static/js/2.6e6c5f69.chunk.js.map",
-    "index.html": "/repository-name/index.html",
-    "precache-manifest.65e4138bf1a8a75636a46a07d80c0594.js": "/repository-name/precache-manifest.65e4138bf1a8a75636a46a07d80c0594.js",
-    "service-worker.js": "/repository-name/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/repository-name/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.d8abf9d9.chunk.css.map": "/repository-name/static/css/main.d8abf9d9.chunk.css.map"
+    "main.css": "/react_router_redux_todo/static/css/main.d8abf9d9.chunk.css",
+    "main.js": "/react_router_redux_todo/static/js/main.f5c962ca.chunk.js",
+    "main.js.map": "/react_router_redux_todo/static/js/main.f5c962ca.chunk.js.map",
+    "runtime~main.js": "/react_router_redux_todo/static/js/runtime~main.455ccbda.js",
+    "runtime~main.js.map": "/react_router_redux_todo/static/js/runtime~main.455ccbda.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/react_router_redux_todo/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.6e6c5f69.chunk.js": "/react_router_redux_todo/static/js/2.6e6c5f69.chunk.js",
+    "static/js/2.6e6c5f69.chunk.js.map": "/react_router_redux_todo/static/js/2.6e6c5f69.chunk.js.map",
+    "index.html": "/react_router_redux_todo/index.html",
+    "precache-manifest.76e883449efc42a07fb481bf0044f321.js": "/react_router_redux_todo/precache-manifest.76e883449efc42a07fb481bf0044f321.js",
+    "service-worker.js": "/react_router_redux_todo/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/react_router_redux_todo/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.d8abf9d9.chunk.css.map": "/react_router_redux_todo/static/css/main.d8abf9d9.chunk.css.map"
   }
 }
